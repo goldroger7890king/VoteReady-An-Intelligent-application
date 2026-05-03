@@ -20,7 +20,7 @@
 ## 🔗 Project Resources
 
 - 🌐 Live Demo: https://vote-mithra-xpe7geunqq-uc.a.run.app  
-- 💻 GitHub: https://github.com/GuruprasathGP07/VoteMithra-Intelligent-Election-Assistant  
+- 💻 GitHub: https://github.com/goldroger7890king/VoteReady-An-Intelligent-application.git
 - 📄 Detailed Mapping: `ALIGNMENT.md`
 - ⚡ **Built with:** Google Antigravity (intent-driven development)
 
